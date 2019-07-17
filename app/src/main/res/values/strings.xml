@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PopUp-Menu</string>
+    <string name="t_popup_up">Click below view to activate popup menu</string>
+    <string name="content_desc_view">popup_menu</string>
+    <string name="p_Share">Share View</string>
+    <string name="p_Edit">Edit View</string>
+    <string name="p_Delete">Delete View</string>
+    <string name="p_Cancel">Cancel</string>
+</resources>
